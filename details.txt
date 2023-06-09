@@ -1,4 +1,7 @@
-
+apple 50
+orange 60
+plum  70
+pomegranate
 
 banana 79
 pineapple 70
